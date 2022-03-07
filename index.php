@@ -6,7 +6,7 @@
   }
   include('components/header.php');
 ?>
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <body>
   <!-- app-header header-shadow bg-deep-blue header-text-dark -->
     <div class="app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header">
@@ -48,5 +48,7 @@
               </div>
         </div>
     </div>
+
 <script type="text/javascript" src="./assets/scripts/main.js"></script></body>
+
 </html>

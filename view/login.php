@@ -7,7 +7,7 @@ if(isset($_SESSION['user'])):
       </script> <?php
 endif;
 
-print_r($_SESSION['user']);
+// print_r($_SESSION['user']);
 ?>
 <div class="app-main__inner">
   <div class="row">
